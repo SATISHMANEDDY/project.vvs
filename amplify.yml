@@ -1,6 +1,6 @@
 version: 1
 applications:
-  - appRoot: vvs-portfolio-main
+  - appRoot: "vvs-portfolio-main/Desktop/portfolio vvs"
     frontend:
       phases:
         preBuild:
